@@ -75,6 +75,12 @@
     opacity: 0.6;
 }
 
+.conteudoPrincipal__formulario button:hover{
+    background-color: rgb(34, 95, 207);
+    opacity: 0.6;
+    cursor: pointer;
+}
+
 .conteudoPrincipal__listaTweets{
     display: flex;
     flex-flow: column-reverse nowrap;
